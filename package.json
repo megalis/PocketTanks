@@ -1,0 +1,25 @@
+{
+  "name": "PocketTanks",
+  "version": "0.1.0",
+  "description": "PocketTanks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": {
+	  "type": "git",
+	  "url": "git://github.com/username/repository.git"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "wjaniec",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+	    "socket.io": "~0.9.6",
+	    "mime": "~1.2.7"
+	  }
+}
